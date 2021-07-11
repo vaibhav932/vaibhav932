@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhav932
-- 👀 I’m interested in android development and java
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: shandilyavaibhav28@gmail.com, Mob No: 7976328381
 
